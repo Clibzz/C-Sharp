@@ -15,28 +15,28 @@
         private double width;
         public double Length {
             get {
-                return length;
+                return this.length;
             }
             set {
                 if (value > 0.0) {
-                    length = value;
+                    this.length = value;
                 }
             }
         }
 
         public double Width {
             get {
-                return width;
+                return this.width;
             }
             set {
                 if (value > 0.0) {
-                    width = value;
+                    this.width = value;
                 }
             }
         }
 
         public double GetArea() {
-            return length * width;
+            return this.length * this.width;
         }
     }
 }

@@ -11,7 +11,7 @@
             StreamReader sr = null;
             try
             {
-                sr = File.OpenText(@"C:\Users\chris\OneDrive\Bureaublad/data.txt");
+                sr = File.OpenText(@"C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\HandlingExceptions/data.txt");
                 Console.WriteLine(sr.ReadToEnd());
             }
             catch (FileNotFoundException fnfe)

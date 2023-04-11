@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\bin\Debug\net6.0\Lesson02.exe
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\bin\Debug\net6.0\Lesson02.deps.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\bin\Debug\net6.0\Lesson02.runtimeconfig.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\bin\Debug\net6.0\Lesson02.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\bin\Debug\net6.0\Lesson02.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\Lesson02.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\Lesson02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\Lesson02.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\Lesson02.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\Lesson02.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\Lesson02.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\refint\Lesson02.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\Lesson02.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\Lesson02.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson02\obj\Debug\net6.0\ref\Lesson02.dll

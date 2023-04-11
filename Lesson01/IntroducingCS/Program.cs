@@ -1,10 +1,6 @@
-﻿using System;
-namespace Lesson01
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+﻿namespace Lesson01 {
+    class Program {
+        static void Main(string[] args) {
             /**
              * Exercise 1
              */

@@ -1,16 +1,11 @@
-﻿namespace Lesson01
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+﻿namespace Lesson01 {
+    class Program {
+        static void Main(string[] args) {
             TestSwitch(10, 20, '+');
         }
-        public static void TestSwitch(int op1, int op2, char opr)
-        {
+        public static void TestSwitch(int op1, int op2, char opr) {
             int result;
-            switch (opr)
-            {
+            switch (opr) {
                 case '+':
                     result = op1 + op2;
                     break;

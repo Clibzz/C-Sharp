@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\bin\Debug\net6.0\while_statement.exe
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\bin\Debug\net6.0\while_statement.deps.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\bin\Debug\net6.0\while_statement.runtimeconfig.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\bin\Debug\net6.0\while_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\bin\Debug\net6.0\while_statement.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\while_statement.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\while_statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\while_statement.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\while_statement.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\while_statement.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\while_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\refint\while_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\while_statement.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\while_statement.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\while_statement\obj\Debug\net6.0\ref\while_statement.dll

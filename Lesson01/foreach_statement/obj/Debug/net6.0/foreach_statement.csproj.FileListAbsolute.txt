@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\bin\Debug\net6.0\foreach_statement.exe
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\bin\Debug\net6.0\foreach_statement.deps.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\bin\Debug\net6.0\foreach_statement.runtimeconfig.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\bin\Debug\net6.0\foreach_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\bin\Debug\net6.0\foreach_statement.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\foreach_statement.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\foreach_statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\foreach_statement.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\foreach_statement.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\foreach_statement.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\foreach_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\refint\foreach_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\foreach_statement.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\foreach_statement.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\foreach_statement\obj\Debug\net6.0\ref\foreach_statement.dll

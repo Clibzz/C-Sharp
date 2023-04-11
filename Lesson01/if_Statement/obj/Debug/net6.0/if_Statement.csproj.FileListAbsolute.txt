@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\bin\Debug\net6.0\if_Statement.exe
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\bin\Debug\net6.0\if_Statement.deps.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\bin\Debug\net6.0\if_Statement.runtimeconfig.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\bin\Debug\net6.0\if_Statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\bin\Debug\net6.0\if_Statement.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\if_Statement.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\if_Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\if_Statement.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\if_Statement.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\if_Statement.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\if_Statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\refint\if_Statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\if_Statement.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\if_Statement.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\if_Statement\obj\Debug\net6.0\ref\if_Statement.dll

@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\IntroducingCS.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\IntroducingCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\IntroducingCS.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\IntroducingCS.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\IntroducingCS.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\bin\Debug\net6.0\IntroducingCS.exe
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\bin\Debug\net6.0\IntroducingCS.deps.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\bin\Debug\net6.0\IntroducingCS.runtimeconfig.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\bin\Debug\net6.0\IntroducingCS.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\bin\Debug\net6.0\IntroducingCS.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\IntroducingCS.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\refint\IntroducingCS.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\IntroducingCS.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\IntroducingCS.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\IntroducingCS\obj\Debug\net6.0\ref\IntroducingCS.dll

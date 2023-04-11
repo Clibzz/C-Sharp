@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\bin\Debug\net6.0\1-4RecursiveAlgorithm.exe
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\bin\Debug\net6.0\1-4RecursiveAlgorithm.deps.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\bin\Debug\net6.0\1-4RecursiveAlgorithm.runtimeconfig.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\bin\Debug\net6.0\1-4RecursiveAlgorithm.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\bin\Debug\net6.0\1-4RecursiveAlgorithm.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\1-4RecursiveAlgorithm.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\1-4RecursiveAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\1-4RecursiveAlgorithm.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\1-4RecursiveAlgorithm.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\1-4RecursiveAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\1-4RecursiveAlgorithm.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\refint\1-4RecursiveAlgorithm.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\1-4RecursiveAlgorithm.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\1-4RecursiveAlgorithm.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\1-4RecursiveAlgorithm\obj\Debug\net6.0\ref\1-4RecursiveAlgorithm.dll

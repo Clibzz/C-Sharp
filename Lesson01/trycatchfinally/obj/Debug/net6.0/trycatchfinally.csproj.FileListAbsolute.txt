@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\bin\Debug\net6.0\trycatchfinally.exe
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\bin\Debug\net6.0\trycatchfinally.deps.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\bin\Debug\net6.0\trycatchfinally.runtimeconfig.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\bin\Debug\net6.0\trycatchfinally.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\bin\Debug\net6.0\trycatchfinally.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\trycatchfinally.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\trycatchfinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\trycatchfinally.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\trycatchfinally.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\trycatchfinally.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\trycatchfinally.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\refint\trycatchfinally.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\trycatchfinally.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\trycatchfinally.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\trycatchfinally\obj\Debug\net6.0\ref\trycatchfinally.dll

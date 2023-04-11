@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\bin\Debug\net6.0\for_statement.exe
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\bin\Debug\net6.0\for_statement.deps.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\bin\Debug\net6.0\for_statement.runtimeconfig.json
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\bin\Debug\net6.0\for_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\bin\Debug\net6.0\for_statement.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\for_statement.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\for_statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\for_statement.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\for_statement.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\for_statement.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\for_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\refint\for_statement.dll
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\for_statement.pdb
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\for_statement.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\for_statement\obj\Debug\net6.0\ref\for_statement.dll

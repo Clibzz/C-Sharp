@@ -1,0 +1,5 @@
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\dowhile_statement\obj\Debug\net6.0\dowhile_statement.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\dowhile_statement\obj\Debug\net6.0\dowhile_statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\dowhile_statement\obj\Debug\net6.0\dowhile_statement.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\dowhile_statement\obj\Debug\net6.0\dowhile_statement.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Bureaublad\C# Projects\Lesson01\dowhile_statement\obj\Debug\net6.0\dowhile_statement.csproj.CoreCompileInputs.cache

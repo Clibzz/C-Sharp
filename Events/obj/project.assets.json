@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\C-Sharp\\Lesson02\\Lesson02.csproj",
-      "projectName": "Lesson02",
-      "projectPath": "C:\\xampp\\htdocs\\C-Sharp\\Lesson02\\Lesson02.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\C-Sharp\\Events\\Events.csproj",
+      "projectName": "Events",
+      "projectPath": "C:\\xampp\\htdocs\\C-Sharp\\Events\\Events.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\C-Sharp\\Lesson02\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\C-Sharp\\Events\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

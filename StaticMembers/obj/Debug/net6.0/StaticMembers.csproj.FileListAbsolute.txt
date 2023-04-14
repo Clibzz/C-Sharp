@@ -1,0 +1,15 @@
+C:\xampp\htdocs\C-Sharp\StaticMembers\bin\Debug\net6.0\StaticMembers.exe
+C:\xampp\htdocs\C-Sharp\StaticMembers\bin\Debug\net6.0\StaticMembers.deps.json
+C:\xampp\htdocs\C-Sharp\StaticMembers\bin\Debug\net6.0\StaticMembers.runtimeconfig.json
+C:\xampp\htdocs\C-Sharp\StaticMembers\bin\Debug\net6.0\StaticMembers.dll
+C:\xampp\htdocs\C-Sharp\StaticMembers\bin\Debug\net6.0\StaticMembers.pdb
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\StaticMembers.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\StaticMembers.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\StaticMembers.AssemblyInfo.cs
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\StaticMembers.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\StaticMembers.dll
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\refint\StaticMembers.dll
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\StaticMembers.pdb
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\StaticMembers.genruntimeconfig.cache
+C:\xampp\htdocs\C-Sharp\StaticMembers\obj\Debug\net6.0\ref\StaticMembers.dll

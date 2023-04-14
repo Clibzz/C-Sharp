@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02", "Lesson02.csproj", "{0A673E0C-321D-4E26-9DA4-7D7BF4CB5D5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson02", "Lesson02.csproj", "{0A673E0C-321D-4E26-9DA4-7D7BF4CB5D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMembers", "..\StaticMembers\StaticMembers.csproj", "{3541B6E7-AF1D-4D8B-8A77-75498390A9BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "..\Events\Events.csproj", "{BDF8CB9E-92CD-4C62-898B-8784D8D4A5DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0A673E0C-321D-4E26-9DA4-7D7BF4CB5D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A673E0C-321D-4E26-9DA4-7D7BF4CB5D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A673E0C-321D-4E26-9DA4-7D7BF4CB5D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3541B6E7-AF1D-4D8B-8A77-75498390A9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3541B6E7-AF1D-4D8B-8A77-75498390A9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3541B6E7-AF1D-4D8B-8A77-75498390A9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3541B6E7-AF1D-4D8B-8A77-75498390A9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF8CB9E-92CD-4C62-898B-8784D8D4A5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF8CB9E-92CD-4C62-898B-8784D8D4A5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF8CB9E-92CD-4C62-898B-8784D8D4A5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF8CB9E-92CD-4C62-898B-8784D8D4A5DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
